@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header_animation.svg" alt="Anandhu Krishna S - Cyber Header" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Anandhu+Krishna+S+%F0%9F%91%8B;MERN+Stack+Developer;AI+Integration+Specialist;Freelancer+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,19 +31,10 @@ Currently, I work as a **Freelance Web Developer**, building custom interfaces a
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="./skills_marquee.svg" alt="Infinite Scrolling Tech Stack" width="100%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,django,git,github,figma,vscode,postman,tailwind" alt="My Skills" />
+  </a>
 </p>
-
-#### **Frontend**
-*   HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
-*   Responsive Web Design, Glassmorphism, CSS Scroll Animations
-
-#### **Backend & Databases**
-*   Node.js, Express.js, Python, Django
-*   MongoDB (Mongoose), SQL, RESTful API Integration
-
-#### **Tools & Platforms**
-*   Git, GitHub, VS Code, Figma, Postman, Vercel, Netlify
 
 ---
 
@@ -57,7 +48,6 @@ Here are some of the key projects I have built:
 | 🎓 **Campus Placement AI** | An AI-powered helper portal to assist students preparing for placements. | Django, Python, Gemini REST API | *Internal Repo* |
 | 🕸️ **µLearn Execom Recruitment** | An application and recruitment portal built for µLearn LMCST campaign. | HTML, CSS, JavaScript | [Live Link](https://github.com/instantcodes) |
 | 🤖 **Code Error Analyzer** | AI-driven backend assistant built to diagnose, explain, and debug code errors in real-time. | Node.js, Express, Gemini API | [GitHub Repository](https://github.com/instantcodes) |
-| 🌩️ **Weather Application** | A sleek, dynamic dashboard showing real-time global weather stats and forecasts. | HTML, CSS, JavaScript, Web APIs | [Live Demo](https://anandhukrishnas.website) |
 
 ---
 
@@ -80,8 +70,5 @@ I'm always open to discussing new web development projects, freelance opportunit
 
 *   💼 **LinkedIn:** [/in/anandhukrishnaslmcst](https://www.linkedin.com/in/anandhukrishnaslmcst)
 *   🌐 **Portfolio:** [anandhukrishnas.website](https://www.anandhukrishnas.website) / [azak.in](http://www.azak.in)
-*   ✨ **Interactive Resume (CSS Scroll-Driven Animations):** [Launch Live Preview](./index.html)
 *   📧 **Email:** [anandhukrishnas@outlook.com](mailto:anandhukrishnas@outlook.com)
 *   📄 **Resume:** [View Resume](https://drive.google.com/file/d/1go3Guw5EHaKPAeqTRCVXhireym8fvyUt/view?usp=sharing)
-
-<p align="right"><i>Last updated: June 2026</i></p>
