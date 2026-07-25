@@ -52,39 +52,7 @@ const anandhu = {
 ```
 
 ---
-## ❤️ Support My Work
 
-If my projects, open-source contributions, or resources have helped you, consider supporting my work. Every contribution helps me build more free tools and projects.
-
-<div align="center">
-
-### 🌍 International
-
-<a href="https://ko-fi.com/anandhukrishnas" target="_blank">
-  <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=6" height="55" alt="Support me on Ko-fi">
-</a>
-
-<br/><br/>
-
-### 🇮🇳 India (UPI)
-
-**UPI ID**
-
-```text
-anandhukrishna@upi
-```
-
-**Name:** **ANANDHU KRISHNA S**
-
-> Use the UPI ID in any UPI app.
-
-<img src="assets/upi-qr.png" width="220" alt="UPI QR Code"/>
-
-</div>
-
-<p align="center">
-Thank you for supporting my open-source journey! ❤️
-</p>
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -133,7 +101,39 @@ Thank you for supporting my open-source journey! ❤️
 | 💼 **developersfind.me** | Developer marketplace & freelance platform | MERN Stack |
 
 ---
+## ❤️ Support My Work
 
+If my projects, open-source contributions, or resources have helped you, consider supporting my work. Every contribution helps me build more free tools and projects.
+
+<div align="center">
+
+### 🌍 International
+
+<a href="https://ko-fi.com/anandhukrishnas" target="_blank">
+  <img src="https://storage.ko-fi.com/cdn/kofi5.png?v=6" height="55" alt="Support me on Ko-fi">
+</a>
+
+<br/><br/>
+
+### 🇮🇳 India (UPI)
+
+**UPI ID**
+
+```text
+anandhukrishna@upi
+```
+
+**Name:** **ANANDHU KRISHNA S**
+
+> Use the UPI ID in any UPI app.
+
+<img src="assets/upi-qr.png" width="220" alt="UPI QR Code"/>
+
+</div>
+
+<p align="center">
+Thank you for supporting my open-source journey! ❤️
+</p>
 ## 📊 GitHub Stats
 
 <div align="center">
