@@ -125,7 +125,7 @@ anandhukrishna@upi
 
 **Name:** **ANANDHU KRISHNA S**
 
-> Use the UPI ID in any UPI app.
+> Use the UPI ID Or Scan QR Code.
 
 <img src="https://files.catbox.moe/qq4mg8.png" width="220" alt="UPI QR Code"/>
 
