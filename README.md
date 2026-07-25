@@ -127,7 +127,7 @@ anandhukrishna@upi
 
 > Use the UPI ID in any UPI app.
 
-<img src="assets/https://files.catbox.moe/qq4mg8.png" width="220" alt="UPI QR Code"/>
+<img src="https://files.catbox.moe/qq4mg8.png" width="220" alt="UPI QR Code"/>
 
 </div>
 
