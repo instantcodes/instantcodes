@@ -29,7 +29,8 @@
 
 ---
 <p align="center">
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/instantcodes/instantcodes/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/instantcodes/instantcodes/output/github-contribution-grid-snake-dark.svg" /> -->
+![snake gif](https://github.com/instantcodes/instantcodes/blob/output/github-snake-dark.svg)
 </p>
 ## 🧑‍💻 About Me
 
